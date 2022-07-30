@@ -1,0 +1,13 @@
+.container {
+  margin-top: 50px;
+}
+
+.add-server {
+  margin-top: 12px;
+}
+
+.app-status {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 12px;
+}
