@@ -1,6 +1,6 @@
-# MyFirstApp
+# #8: Practicing pipes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Practice #8 for Maximillian Schwarzmüller Angular course
 
 ## Development server
 
